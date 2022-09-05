@@ -1,1 +1,1 @@
-My name is Betty
+script that displays a confused smiley
